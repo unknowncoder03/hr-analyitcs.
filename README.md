@@ -20,5 +20,6 @@ BI Dashboard Project:---
 
 
  link of dashboard
- 
+ the dashboard 
+ https://github.com/unknowncoder03/hr-analyitcs./blob/main/bi%20dashboard.jpg
  
